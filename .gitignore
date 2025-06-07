@@ -1,0 +1,15 @@
+/*
+
+!.gitignore
+
+!.config/
+
+.config/*
+
+!victo.omp.json
+
+!.config/starship.toml
+
+!.wslconfig
+
+!README.md
