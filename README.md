@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal.svg" width="760" alt="Terminal: whoami — Victor, Fullstack Dev em Petrolina, PE. Formado em Engenharia de Software." />
+  <img src="./terminal.svg?v=2" width="760" alt="Terminal: whoami — Victor, Fullstack Dev em Petrolina, PE. Formado em Engenharia de Software." />
 </p>
 
 <p align="center">
