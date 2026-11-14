@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="386" viewBox="0 0 760 386" role="img" aria-label="Terminal: whoami — Victor, Fullstack Dev em Petrolina, PE. Formado em Engenharia de Software. Aberto a oportunidades.">
+<style>
+text{font-family:ui-monospace,"JetBrains Mono","Cascadia Code","SFMono-Regular",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;font-size:15px}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@keyframes hide{from{opacity:1}to{opacity:0}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.a1{animation:show .01s linear 0.60s both}
+.c2{animation:show .01s linear 0.60s both,type2 0.45s steps(6,end) 0.60s both,hide .01s linear 1.40s forwards}@keyframes type2{to{transform:translateX(54.3px)}}
+.a3{animation:show .01s linear 1.40s both}
+.a4{animation:show .01s linear 2.00s both}
+.c5{animation:show .01s linear 2.00s both,type5 0.97s steps(13,end) 2.00s both,hide .01s linear 3.33s forwards}@keyframes type5{to{transform:translateX(117.7px)}}
+.a6{animation:show .01s linear 3.33s both}
+.a7{animation:show .01s linear 3.33s both}
+.a8{animation:show .01s linear 3.33s both}
+.a9{animation:show .01s linear 3.93s both}
+.c10{animation:show .01s linear 3.93s both,type10 0.82s steps(11,end) 3.93s both,hide .01s linear 5.10s forwards}@keyframes type10{to{transform:translateX(99.6px)}}
+.a11{animation:show .01s linear 5.10s both}
+.a12{animation:show .01s linear 5.10s both}
+.a13{animation:show .01s linear 5.70s both}
+.a14{animation:show .01s linear 5.70s both,blink 1s steps(1) 5.70s infinite}
+@media (prefers-reduced-motion:reduce){[class^="a"]{animation:none!important}.cur{display:none}}
+</style>
+<defs><clipPath id="win"><rect width="760" height="386" rx="10"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="760" height="386" fill="#0d1117"/>
+<rect width="760" height="40" fill="#161b22"/>
+<rect y="40" width="760" height="1" fill="#30363d"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text x="380.0" y="25" text-anchor="middle" fill="#6e7681" style="font-size:13px">victor@arch: ~</text>
+<text class="a1" x="24" y="70" xml:space="preserve"><tspan fill="#7ee787">victor@arch</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+<g class="c2 cur"><rect x="159.8" y="56" width="9.1" height="19" fill="#c9d1d9"/><rect x="168.8" y="53" width="58.3" height="24" fill="#0d1117"/></g>
+<text class="a3" x="24" y="94" xml:space="preserve"><tspan fill="#c9d1d9">Victor · Fullstack Dev · Petrolina, PE 🌵</tspan></text>
+<text class="a4" x="24" y="142" xml:space="preserve"><tspan fill="#7ee787">victor@arch</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9">cat sobre.txt</tspan></text>
+<g class="c5 cur"><rect x="159.8" y="128" width="9.1" height="19" fill="#c9d1d9"/><rect x="168.8" y="125" width="121.7" height="24" fill="#0d1117"/></g>
+<text class="a6" x="24" y="166" xml:space="preserve"><tspan fill="#c9d1d9">Formado em Engenharia de Software.</tspan></text>
+<text class="a7" x="24" y="190" xml:space="preserve"><tspan fill="#c9d1d9">Curto TypeScript, Linux e resolver problema de rede.</tspan></text>
+<text class="a8" x="24" y="214" xml:space="preserve"><tspan fill="#c9d1d9">Status: </tspan><tspan fill="#7ee787">● aberto a oportunidades</tspan></text>
+<text class="a9" x="24" y="262" xml:space="preserve"><tspan fill="#7ee787">victor@arch</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9">cat contato</tspan></text>
+<g class="c10 cur"><rect x="159.8" y="248" width="9.1" height="19" fill="#c9d1d9"/><rect x="168.8" y="245" width="103.6" height="24" fill="#0d1117"/></g>
+<text class="a11" x="24" y="286" xml:space="preserve"><tspan fill="#ffa657">linkedin  </tspan><tspan fill="#6e7681">-&gt; </tspan><tspan fill="#a5d6ff">in/victorgbriel</tspan></text>
+<text class="a12" x="24" y="310" xml:space="preserve"><tspan fill="#ffa657">x         </tspan><tspan fill="#6e7681">-&gt; </tspan><tspan fill="#a5d6ff">@victobriel</tspan></text>
+<text class="a13" x="24" y="358" xml:space="preserve"><tspan fill="#7ee787">victor@arch</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<rect class="a14" x="159.8" y="344" width="9.1" height="19" fill="#c9d1d9"/>
+</g>
+<rect x=".5" y=".5" width="759" height="385" rx="10" fill="none" stroke="#30363d"/>
+</svg>
